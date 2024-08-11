@@ -10,7 +10,7 @@ Idea of a utility to test PDFs
 
 ```bash
 npm install
-npm start
+npm run test
 ```
 
 >[!NOTE]
